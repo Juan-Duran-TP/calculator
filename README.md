@@ -5,5 +5,5 @@ This is an exercise for unit testing with Jest. The goal is to demonstrate Unit 
 Make sure to have npm and Jest
 
 
-##To run the test, use:
+To run the test, use:
 `npm run test`
